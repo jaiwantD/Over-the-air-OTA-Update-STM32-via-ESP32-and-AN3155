@@ -23,6 +23,8 @@
 </div>
 
 ---
+🎥 **Project Demo:**  
+[![Watch the demo](https://github.com/jaiwantD/Over-the-air-OTA-Update-STM32-via-ESP32-and-AN3155/blob/main/assets/ota.mp4))
 
 ## 📖 Table of Contents
 
